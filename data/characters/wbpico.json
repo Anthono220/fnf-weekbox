@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "name": "Pico (Weekbox)",
+  "renderType": "sparrow",
+  "assetPath": "characters/wbpico",
+  "flipX": true,
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "offsets": [-22, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "singLEFT",
+      "offsets": [-22, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "singDOWN",
+      "offsets": [-22, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "singUP",
+      "offsets": [-22, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "singRIGHT",
+      "offsets": [-22, 0]
+    },
+    {
+      "name": "firstDeath",
+      "prefix": "firstDeath",
+      "offsets": [-22, 0]
+    }
+  ]
+}

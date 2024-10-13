@@ -1,0 +1,10 @@
+{
+  "title": "Friday Night Funkin': WEEKBOX",
+  "description": "yeah",
+  "contributors": [{
+    "name": "Anthono220"
+  }],
+  "api_version": "0.1.0",
+  "mod_version": "0.0.1",
+  "license": "Apache-2.0"
+}
