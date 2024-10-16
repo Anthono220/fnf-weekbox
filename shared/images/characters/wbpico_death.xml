@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pico_Death.png">
+<SubTexture name="firstDeath0000" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0001" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0002" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0003" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0004" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0005" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0006" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0007" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0008" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0009" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0010" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0011" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0012" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0013" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0014" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0015" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0016" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0017" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0018" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+<SubTexture name="firstDeath0019" x="0" y="0" width="515" height="573" frameX="-273" frameY="-251" frameWidth="1100" frameHeight="800" />
+</TextureAtlas>

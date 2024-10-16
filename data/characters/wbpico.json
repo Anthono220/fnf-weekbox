@@ -1,40 +1,164 @@
 {
-  "version": "1.0.0",
-  "name": "Pico (Weekbox)",
-  "renderType": "sparrow",
-  "assetPath": "characters/wbpico",
-  "flipX": true,
-  "singTime": 8.0,
-  "animations": [
-    {
-      "name": "idle",
-      "prefix": "idle",
-      "offsets": [-22, 0]
-    },
-    {
-      "name": "singLEFT",
-      "prefix": "singLEFT",
-      "offsets": [-22, 0]
-    },
-    {
-      "name": "singDOWN",
-      "prefix": "singDOWN",
-      "offsets": [-22, 0]
-    },
-    {
-      "name": "singUP",
-      "prefix": "singUP",
-      "offsets": [-22, 0]
-    },
-    {
-      "name": "singRIGHT",
-      "prefix": "singRIGHT",
-      "offsets": [-22, 0]
-    },
-    {
-      "name": "firstDeath",
-      "prefix": "firstDeath",
-      "offsets": [-22, 0]
-    }
-  ]
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Pico (Weekbox)",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"death": {
+		"cameraZoom": 1,
+		"cameraOffsets": [
+			10,
+			-40
+		]
+	},
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "wbpico",
+		"flipX": false
+	},
+	"assetPath": "characters/wbpico_basic",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "singRIGHT",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "singDOWN",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "singUP",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "singLEFT",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/wbpico_playable",
+			"prefix": "missLEFT",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/wbpico_playable",
+			"prefix": "missDOWN",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/wbpico_playable",
+			"prefix": "missUP",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/wbpico_playable",
+			"prefix": "missRIGHT",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/wbpico_death",
+			"prefix": "firstDeath",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath"
+		}
+	]
 }
