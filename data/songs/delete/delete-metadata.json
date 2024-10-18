@@ -18,7 +18,7 @@
       "hard"
     ],
     "characters": {
-      "player": "pico-playable",
+      "player": "wbpico",
       "girlfriend": "nonexisty",
       "opponent": "eteled",
       "instrumental": "",
@@ -31,8 +31,8 @@
       "normal": 0,
       "hard": 8
     },
-    "previewStart": 4800,
-    "previewEnd": 24800
+    "previewStart": 14000,
+    "previewEnd": 40000
   },
   "generatedBy": "Friday Night Funkin' - v0.4.1",
   "timeFormat": "ms",
