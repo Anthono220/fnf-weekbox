@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "songName": "Delete",
   "artist": "Anthono220",
   "charter": "Anthono220",
@@ -8,7 +8,8 @@
   "offsets": {
     "instrumental": 0,
     "altInstrumentals": {    },
-    "vocals": {    }
+    "vocals": {    },
+    "altVocals": {    }
   },
   "playData": {
     "songVariations": [    ],
@@ -28,13 +29,13 @@
     "noteStyle": "funkin",
     "ratings": {
       "easy": 0,
-      "normal": 0,
-      "hard": 8
+      "hard": 8,
+      "normal": 0
     },
     "previewStart": 14000,
     "previewEnd": 40000
   },
-  "generatedBy": "Friday Night Funkin' - v0.4.1",
+  "generatedBy": "Friday Night Funkin' - v0.5.2",
   "timeFormat": "ms",
   "timeChanges": [
     {
