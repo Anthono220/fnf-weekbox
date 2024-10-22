@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Pico_Playable.png">
+<TextureAtlas imagePath="wbpico_playable.png">
 <SubTexture name="missLEFT0000" x="0" y="0" width="479" height="573" frameX="-304" frameY="-251" frameWidth="1100" frameHeight="800" />
 <SubTexture name="missLEFT0001" x="0" y="0" width="479" height="573" frameX="-304" frameY="-251" frameWidth="1100" frameHeight="800" />
 <SubTexture name="missLEFT0002" x="0" y="0" width="479" height="573" frameX="-304" frameY="-251" frameWidth="1100" frameHeight="800" />
