@@ -29,8 +29,8 @@
     "noteStyle": "funkin",
     "ratings": {
       "easy": 0,
-      "normal": 0,
-      "hard": 0
+      "hard": 0,
+      "normal": 0
     },
     "previewStart": 0,
     "previewEnd": 24000
