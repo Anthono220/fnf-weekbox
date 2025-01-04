@@ -9,6 +9,6 @@ NOTE: This mod is for 0.5.2 and the version requirement will only go up as both 
 
 If there isn't a "mods" folder where your game is, make that first. Then, extract the zip (which should contain a folder) to the mods folder and you should be good to go.
 
-## Episodes so far
+## Weeks so far
 ### Pico
 1: "GUNS N' AXES" | VS. Eteled (Wii Deleted You)
