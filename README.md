@@ -1,6 +1,6 @@
 # FNF: Weekbox
  
-Welcome one and all to **FNF Weekbox**, a mod pretty much made by one person (me, Anthono220) for base game (V-slice) FNF! This will be a traditional, 3-song-per-week (called "episodes" in this mod) kind of deal featuring a wide variety of opponents, most of which aren't mine lol
+Welcome one and all to **FNF Weekbox**, a mod pretty much made by one person (me, Anthono220) for base game (V-slice) FNF! This will be a traditional, 3-song-per-week kind of deal featuring a wide variety of opponents, most of which aren't mine lol
 
 I don't know how else to describe it tbh
 
